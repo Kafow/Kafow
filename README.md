@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**I'm Ofek Kfir** a 18 years old developer who's passionate about computers and software development.
+
+- 📫 How to reach me: 
+
+  **Twitter**: https://twitter.com/ofekkfir
+
+  **Email**: Ofek.kfir@gmail.com
+
 <!--
 **Kafow/Kafow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
